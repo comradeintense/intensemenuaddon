@@ -12,5 +12,5 @@ After that, in Blender go to Edit > Preferences > Addons (Left menu) and click o
 
 Make sure you enable the addon by ticking the check mark.
 
-Now the addon is ready to use, activating it by pressing the "D" key in either object mode/edit mode/uv editor area in the viewport.
+Now the addon is ready to use, activating it by pressing the "**D**" key in either object mode/edit mode/uv editor area in the viewport.
 
