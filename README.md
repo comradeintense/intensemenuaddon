@@ -6,4 +6,4 @@ Intense Menu is an addon that I developed for myself to speed up the workflow in
 
 ### Installation
 
-To install the addon, first download it from here: https://github.com/comradeintense/intensemenuaddon/blob/main/intensemenu.zip and then save it anywhere you want on your local hard drive. You do not have to extract the archive, leave it as .zip file.
+To install the addon, first download it from here: https://github.com/comradeintense/intensemenuaddon/raw/main/intensemenu.zip and then save it anywhere you want on your local hard drive. You do not have to extract the archive, leave it as .zip file.
