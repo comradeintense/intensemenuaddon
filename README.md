@@ -22,6 +22,6 @@ Now the addon is ready to use, activating it by pressing the "**D**" key in eith
 
 If you need any help with the addon or have any feedback, please join the discord instead of submitting issues here.
 
-💬 Discord: http://invite.gg/comradeintense
-ℹ️ Portfolio website: https://intense.ws
+* 💬 Discord: http://invite.gg/comradeintense
+* ℹ️ Portfolio website: https://intense.ws
 
