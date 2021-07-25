@@ -14,3 +14,6 @@ Make sure you enable the addon by ticking the check mark.
 
 Now the addon is ready to use, activating it by pressing the "**D**" key in either object mode/edit mode/uv editor area in the viewport.
 
+### How to use the addon
+
+[![Tutorial](https://img.youtube.com/vi/7lV_zXx4gOk/0.jpg)](https://www.youtube.com/watch?v=7lV_zXx4gOk)
