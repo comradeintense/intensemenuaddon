@@ -2,7 +2,7 @@
 
 ## About
 
-Intense Menu is an addon that I developed for myself to speed up the workflow in Blender when I'm doing asset creation for Cities Skylines. It incorporates some of the most used (for me) actions/shortctuts into one single place, in a nice menu accessible with hotkeys.
+Intense Menu is an addon that I developed for myself to speed up the workflow in Blender when I'm doing asset creation for Cities Skylines. It incorporates some of the most used (for me) actions/shortctuts into one single place, in a nice menu accessible with hotkeys. The idea of the menu came from the Youtuber ['passivestar'](https://www.youtube.com/channel/UCa_whcQiaeIYC7-M9-zEg8g)
 
 ## Installation
 
@@ -24,4 +24,5 @@ If you need any help with the addon or have any feedback, please join the discor
 
 * 💬 Discord: http://invite.gg/comradeintense
 * ℹ️ Portfolio website: https://intense.ws
+
 
