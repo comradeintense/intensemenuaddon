@@ -1,6 +1,7 @@
-# intensemenuaddon
+Intense Menu Addon
 
-[h1]About[/h1]
+# About
+
 Addon for blender to speed up the workflow by combining the most common actions/tools into a single place.
 
 
