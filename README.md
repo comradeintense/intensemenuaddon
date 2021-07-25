@@ -17,3 +17,11 @@ Now the addon is ready to use, activating it by pressing the "**D**" key in eith
 ### How to use the addon
 
 [![Tutorial](https://img.youtube.com/vi/7lV_zXx4gOk/0.jpg)](https://www.youtube.com/watch?v=7lV_zXx4gOk)
+
+### Help
+
+If you need any help with the addon or have any feedback, please join the discord instead of submitting issues here.
+
+💬 Discord: http://invite.gg/comradeintense
+ℹ️ Portfolio website: https://intense.ws
+
